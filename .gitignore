@@ -1,0 +1,5 @@
+# ignore generated html files
+*.html
+
+# except for foo.html
+!foo.html
