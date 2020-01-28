@@ -27,9 +27,7 @@ var g = 9347934;
 //a
 //ds
 //f
-//asdffrom master from master
-//s
-//dfs
+//asdffrom mastedfs
 //df
 //
 =======
