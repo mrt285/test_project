@@ -6,7 +6,7 @@ vlans:
     id: 10
   blue:
     id: 20
-  green:
+  brown:
     id: 30
 ports:
  1: [ 30 ]
