@@ -1,0 +1,16 @@
+p: 10.0.0.2
+p2: 8.8.8.8
+
+vlans:
+  red:
+    id: 10
+  blue:
+    id: 22
+  pink:
+    id: 20
+  brown:
+    id: 30
+ports:
+ 1: [ 30 ]
+ 3: [ 10, 22 ]
+auth_server: 10.0.0.123
